@@ -1,6 +1,6 @@
 <div align="center" class="has-mb-6">
 
-# :game_die: ROG-Liquid-Cooling-Computer 分体水冷装机记录文档
+# :game_die: ROG-Liquid-Cooling-Computer 分体水冷装机记录文档 <a title="Hits" target="_blank" href="https://github.com/SummerFalls/ROG-Liquid-Cooling-Computer"><img src="https://hits.b3log.org/SummerFalls/ROG-Liquid-Cooling-Computer.svg"></a>
 
 ![Header][Header]
 
